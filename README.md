@@ -2,4 +2,4 @@
 Autor: Guillermo Lavagnino
 Septiembre de 2026
 
-Línea agregada 7/9/26
+agregado branch 2
